@@ -1,0 +1,13 @@
+name = " Integrated Dungeons and Structures"
+filename = "idas_forge-1.6.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z8OZShAU/versions/GcX7bayT/idas_forge-1.6.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "097bba58f066ce71cd11d6f6aa0c5d2768050869"
+
+[update]
+[update.modrinth]
+mod-id = "Z8OZShAU"
+version = "GcX7bayT"

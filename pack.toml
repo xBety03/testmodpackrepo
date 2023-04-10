@@ -1,0 +1,13 @@
+name = "Testmodpack"
+author = "Bety"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f99a49afec7b8696fc3df14eb6badd7f8a79f6b287262fdc4d4f1825a635f4be"
+
+[versions]
+forge = "43.2.8"
+minecraft = "1.19.2"

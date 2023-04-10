@@ -1,0 +1,151 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "0c84cad8a1d02e392c330af456c32db649874277bb5bdde84ff71b1cadb6907d"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
+metafile = true
+
+[[files]]
+file = "mods/bucolic-origins.pw.toml"
+hash = "d61e6adc1abcc18d90afce0f5e07eb19d235ca6c5be5855b98cc0f7bbf4c5bf5"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "a52e9270056ae9bca8c548923cef6e23cc9152a9b888b659bb1ab8f8b8536bde"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "139a92b6e1cc541a1b06b7e76f23fddf3a13ae234561813e46215a8b8cb4cfc8"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "b0939921a7ad1af619801ef6ba972b7a6ddf5bc51ffcdba06eccb0b31cfcdd96"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f4472b39e794d2c687042eb9795dcdb6bc7d3c88620e2e38cfa6e4983fa7767b"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "9f351d1dfa211ea34e27342acc61f0a808359659931dfa9c232ebf7ef96d8e3c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fde0369eaad4e6f507b0e1d238b131877b9a291deff0715c9f1b5fb397aa176a"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "a9bde84baabb3c6072ca9aff9c8b261321c19340b284d04c017e8db17a7f76e6"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "25b7d53f3cedff407d47cd8256a062b721354bb41012531fc3be13368b02abfd"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "b83da1d4b1cfd098abd7cb0bbab6b146dee448d5a2b725671b9593c2d6244638"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "870e5b0ead71b2dd4f756187f14588c34272170e64e91d76d753c0730fccb660"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "a96c9a34d7d602553e1ad75812431a82b2cb9a2d30b595fa6bde67c4be674234"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "bb7589595dc071e855b768e7f1eb9c634a57003dd08544a39ad5f9f270637baa"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "7089cdcaf2c1f1b9f6a9a28195c6925cda1af4dce16fd9f6f241d6340d5c8911"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "450bf93c940cf89f17cdffee7eb4bd9ff40d9c0b18a1be2b9275089c833363ee"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "6f0ed9e6016d79cae58dee2808e2d42e30b25b270b51de85885986e100e2fe4d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "ab1769a96517768e3cda9b227c26efa58d37f63d06f86a9ef999d0db89324c3f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "02fb8f0f31774ed8d7bcb062cabd3d912d5814da0eb66eb8d6c7fc36a44dfc37"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+metafile = true
+
+[[files]]
+file = "mods/tfb-anthro-origins.pw.toml"
+hash = "4eb7132b3302d36894097dee7f105380d6f2c7b4df3c92e2beef090a85ee3c6b"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
+metafile = true
