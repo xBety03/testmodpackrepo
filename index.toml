@@ -16,6 +16,11 @@ hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
 metafile = true
@@ -32,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "a52e9270056ae9bca8c548923cef6e23cc9152a9b888b659bb1ab8f8b8536bde"
+hash = "5a822cc5aa99b8c6260fbff4671a1f006361bfeb10edc0b0180ffdd99e819b9d"
 metafile = true
 
 [[files]]
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "9f351d1dfa211ea34e27342acc61f0a808359659931dfa9c232ebf7ef96d8e3c"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "f982446e0d81644ee7ae042c7014ce7383d625850b7f17e288768684c9bdcf70"
 metafile = true
 
 [[files]]
@@ -121,6 +131,11 @@ hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "994a0ed956fadb078234026da6cad7172a5520deaefecb27bc4bb11e3450c011"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "6f0ed9e6016d79cae58dee2808e2d42e30b25b270b51de85885986e100e2fe4d"
 metafile = true
@@ -133,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "02fb8f0f31774ed8d7bcb062cabd3d912d5814da0eb66eb8d6c7fc36a44dfc37"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "eab45c93eea75067a496b7048c52d1827af264e0f5e5a0594996d8d604124fbf"
 metafile = true
 
 [[files]]
